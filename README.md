@@ -11,9 +11,6 @@ Launch the web app:
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/multi-page-app/main/app.py)
 
-
-[Demo of this web app](#).
-
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
 
